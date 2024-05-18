@@ -1,0 +1,12 @@
+{
+    "name": "afp-http",
+    "version": "1.0.4",
+    "main": "dist/afp.js",
+    "types": "dist/afp.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
+}
